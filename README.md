@@ -14,3 +14,6 @@ Preprocess your input images to the required format (e.g., resizing, normalizati
 Load the pre-trained model weights (if available) or train the model using your dataset.
 Perform inference on your input images using the trained model.
 Evaluate the model's performance on your dataset using appropriate metrics such as accuracy, precision, recall, and F1 score.
+
+
+Link for dataset: https://www.kaggle.com/datasets/rtlmhjbn/ip02-dataset
